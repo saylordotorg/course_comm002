@@ -1,3 +1,10 @@
+---
+layout: default
+title: "COMM002: Media and Society"
+course_description: "An exploration of mass media as a cultural industry that seeks to shape our values and the underlying forces which allow for this to take place."
+next: ../Unit08
+previous: ../Unit06
+---
 **Unit 7: Movies in a Transmedia World** <span id="7"></span> 
 *What’s more heroic, saving the world from evil or making a billion
 dollars in little more than two weeks? If you’re Walt Disney Pictures,

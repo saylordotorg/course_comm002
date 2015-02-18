@@ -1,3 +1,10 @@
+---
+layout: default
+title: "COMM002: Media and Society"
+course_description: "An exploration of mass media as a cultural industry that seeks to shape our values and the underlying forces which allow for this to take place."
+next: ../Unit10
+previous: ../Unit08
+---
 **Unit 9: The Virtual World of Games** <span id="9"></span> 
 *In Unit 7, we discussed how movies, games and comic books coexist as
 transmedia, where familiar characters inhabit familiar worlds in stories

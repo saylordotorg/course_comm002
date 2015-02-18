@@ -1,4 +1,11 @@
-Course Syllabus for "COMM002: Media and Society "
+---
+layout: default
+title: "COMM002: Media and Society"
+course_description: "An exploration of mass media as a cultural industry that seeks to shape our values and the underlying forces which allow for this to take place."
+next: ../Unit01
+previous: ../../../
+---
+Course Syllabus for "COMM002: Media and Society"
 -------------------------------------------------
 
 Do you know what you’re watching? What you’re reading? You might think

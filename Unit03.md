@@ -1,3 +1,10 @@
+---
+layout: default
+title: "COMM002: Media and Society"
+course_description: "An exploration of mass media as a cultural industry that seeks to shape our values and the underlying forces which allow for this to take place."
+next: ../Unit04
+previous: ../Unit02
+---
 **Unit 3: Advertising and the Market Society** <span id="3"></span> 
 *In* Understanding Media and Culture: An Introduction to Mass
 Communication*, the author places advertising toward the end of the book

@@ -1,3 +1,10 @@
+---
+layout: default
+title: "COMM002: Media and Society"
+course_description: "An exploration of mass media as a cultural industry that seeks to shape our values and the underlying forces which allow for this to take place."
+next: ../Unit07
+previous: ../Unit05
+---
 **Unit 6: Music, Radio, and the Soundtrack of Our Lives** <span
 id="6"></span> 
 *Recorded music and radio have enjoyed a special synergy almost since

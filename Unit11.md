@@ -1,3 +1,10 @@
+---
+layout: default
+title: "COMM002: Media and Society"
+course_description: "An exploration of mass media as a cultural industry that seeks to shape our values and the underlying forces which allow for this to take place."
+next: ../../../
+previous: ../Unit10
+---
 **Unit 11: Media Law and Media Ethics** <span id="11"></span> 
 *Ethics, someone once said, govern your behavior even when no one is
 looking. In today’s world of mass communication, someone is always

@@ -1,3 +1,10 @@
+---
+layout: default
+title: "COMM002: Media and Society"
+course_description: "An exploration of mass media as a cultural industry that seeks to shape our values and the underlying forces which allow for this to take place."
+next: ../Unit05
+previous: ../Unit03
+---
 **Unit 4: The Book as the Original Mass Medium** <span id="4"></span> 
 *Johann Gutenberg (ca. 1400–1468) did not invent printing, but his
 practical method of producing metal type and using it to print books

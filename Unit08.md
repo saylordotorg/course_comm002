@@ -1,3 +1,10 @@
+---
+layout: default
+title: "COMM002: Media and Society"
+course_description: "An exploration of mass media as a cultural industry that seeks to shape our values and the underlying forces which allow for this to take place."
+next: ../Unit09
+previous: ../Unit07
+---
 **Unit 8: Television Anytime, Anywhere** <span id="8"></span> 
 *Perhaps the most radical change in television viewing for anyone who
 grew up with the medium has been the freeing of the viewing schedule

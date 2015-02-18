@@ -1,3 +1,10 @@
+---
+layout: default
+title: "COMM002: Media and Society"
+course_description: "An exploration of mass media as a cultural industry that seeks to shape our values and the underlying forces which allow for this to take place."
+next: ../Unit03
+previous: ../Unit01
+---
 **Unit 2: Media Effects** <span id="2"></span> 
 *According to a 2010 study by the Kaiser Family Foundation, children 8
 to 18 years old use entertainment media for an average of 7 hours 38

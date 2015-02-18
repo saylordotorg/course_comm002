@@ -1,3 +1,10 @@
+---
+layout: default
+title: "COMM002: Media and Society"
+course_description: "An exploration of mass media as a cultural industry that seeks to shape our values and the underlying forces which allow for this to take place."
+next: ../Unit11
+previous: ../Unit09
+---
 **Unit 10: Social Media** <span id="10"></span> 
 *If something has been tweeted, is it still news? Apparently the British
 Broadcasting Corporation believes the answer is no. In February 2012,

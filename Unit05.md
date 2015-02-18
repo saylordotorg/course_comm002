@@ -1,3 +1,10 @@
+---
+layout: default
+title: "COMM002: Media and Society"
+course_description: "An exploration of mass media as a cultural industry that seeks to shape our values and the underlying forces which allow for this to take place."
+next: ../Unit06
+previous: ../Unit04
+---
 **Unit 5: Newspapers and Magazines in a Changing World** <span
 id="5"></span> 
 *Newspapers and magazines sometimes are called “legacy media”: media

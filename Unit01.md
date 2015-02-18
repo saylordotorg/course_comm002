@@ -1,3 +1,10 @@
+---
+layout: default
+title: "COMM002: Media and Society"
+course_description: "An exploration of mass media as a cultural industry that seeks to shape our values and the underlying forces which allow for this to take place."
+next: ../Unit02
+previous: ../Intro
+---
 **Unit 1: Mass Media as a Cultural Industry** <span id="1"></span> 
 *We can think of mass communication as an activity, something people do
 to get messages across to other people. That’s true if we consider only
