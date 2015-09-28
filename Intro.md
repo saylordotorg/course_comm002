@@ -152,3 +152,4 @@ with an example from the media:
 - [Unit 9](https://legacy.saylor.org/comm002/Unit09/)
 - [Unit 10](https://legacy.saylor.org/comm002/Unit10/)
 - [Unit 11](https://legacy.saylor.org/comm002/Unit11/)
+- [Final Exam](http://saylordotorg.github.io/LegacyExams/COMM/COMM002/COMM002-FinalExam.html), [Answers](http://saylordotorg.github.io/LegacyExams/COMM/COMM002/COMM002-FinalExam-Answers.html)
