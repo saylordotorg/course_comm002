@@ -72,7 +72,7 @@ id="7.1"></span> 
     Introduction: Are 3-D Effects Creating Two-Dimensional Films?” and
     “Section 1: The History of Movies”**
     Link: [*Understanding Media and
-    Culture*](http://www.saylor.org/site/textbooks/Understanding%20Media%20and%20Culture.pdf):
+    Culture*](https://resources.saylor.org/archived/textbooks/Understanding%20Media%20and%20Culture.pdf):
     “Chapter 8, Introduction: Are 3-D Effects Creating Two-Dimensional
     Films?” and “Section 1: The History of Movies” (PDF)  
         
@@ -454,7 +454,7 @@ id="7.1.2.7"></span> 
 -   **Reading: *Understanding Media and Culture*: “Chapter 8, Section 4:
     The Influence of New Technology”**
     Link: [*Understanding Media and
-    Culture*](http://www.saylor.org/site/textbooks/Understanding%20Media%20and%20Culture.pdf):
+    Culture*](https://resources.saylor.org/archived/textbooks/Understanding%20Media%20and%20Culture.pdf):
     “Chapter 8, Section 4: The Influence of New Technology” (PDF)  
         
      Instructions: The home-theater television, the digital video
@@ -530,7 +530,7 @@ id="7.1.2.7.2"></span> 
 -   **Reading: *Understanding Media and Culture*: “Chapter 8, Section 2:
     Movies and Culture”**
     Link: [*Understanding Media and
-    Culture*](http://www.saylor.org/site/textbooks/Understanding%20Media%20and%20Culture.pdf):
+    Culture*](https://resources.saylor.org/archived/textbooks/Understanding%20Media%20and%20Culture.pdf):
     “Chapter 8, Section 2: Movies and Culture” (PDF)  
         
      Instructions: Chapter 8, Section 2 on pages 350-358 describes the
@@ -833,7 +833,7 @@ id="7.2.5.1"></span> 
 -   **Reading: *Understanding Media and Culture*: “Chapter 8, Section 3:
     Issues and Trends in Film”**
     Link: [*Understanding Media and
-    Culture*](http://www.saylor.org/site/textbooks/Understanding%20Media%20and%20Culture.pdf):
+    Culture*](https://resources.saylor.org/archived/textbooks/Understanding%20Media%20and%20Culture.pdf):
     “Chapter 8, Section 3: Issues and Trends in Film” (PDF)  
         
      Instructions: Read Chapter 8, Section 3 on pages 359-369 for an
