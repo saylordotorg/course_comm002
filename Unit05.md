@@ -55,7 +55,7 @@ id="5.1"></span> 
     Introduction: Newspaper Wars” and “Section 1: History of
     Newspapers”**
     Link: *[Understanding Media and
-    Culture](http://www.saylor.org/site/textbooks/Understanding%20Media%20and%20Culture.pdf)*:
+    Culture](https://resources.saylor.org/archived/textbooks/Understanding%20Media%20and%20Culture.pdf)*:
     “Chapter 4, Introduction: Newspaper Wars” and “Section 1: History of
     Newspapers” (PDF)  
         
@@ -80,7 +80,7 @@ id="5.1"></span> 
     Introduction: Changing Times, Changing Tastes” and “Section 1:
     History of Magazine Publishing”**
     Link: [*Understanding Media and
-    Culture*](http://www.saylor.org/site/textbooks/Understanding%20Media%20and%20Culture.pdf):
+    Culture*](https://resources.saylor.org/archived/textbooks/Understanding%20Media%20and%20Culture.pdf):
     “Chapter 5, Introduction: Changing Times, Changing Tastes” and
     “Section 1: History of Magazine Publishing” (PDF)  
         
@@ -265,7 +265,7 @@ id="5.2.5"></span> 
     Newspapers Control the Public’s Access to Information and Impact
     American Pop Culture”**
     Link: [*Understanding Media and
-    Culture*](http://www.saylor.org/site/textbooks/Understanding%20Media%20and%20Culture.pdf):
+    Culture*](https://resources.saylor.org/archived/textbooks/Understanding%20Media%20and%20Culture.pdf):
     “Chapter 4, Section 2: Different Styles and Models of Journalism”
     (PDF) and “Section 3: How Newspapers Control the Public’s Access to
     Information and Impact American Pop Culture” (PDF)  
@@ -295,7 +295,7 @@ id="5.2.5"></span> 
     and “Section 4: How Magazines Control the Public’s Access to
     Information”**
     Link: [*Understanding Media and
-    Culture*](http://www.saylor.org/site/textbooks/Understanding%20Media%20and%20Culture.pdf):
+    Culture*](https://resources.saylor.org/archived/textbooks/Understanding%20Media%20and%20Culture.pdf):
     “Chapter 5, Section 2: The Role of Magazines in the Development of
     American Popular Culture,” “Section 3: Major Publications in the
     Magazine Industry,” and “Section 4: How Magazines Control the
@@ -366,7 +366,7 @@ id="5.3.4"></span> 
 -   **Reading: *Understanding Media and Culture*: “Chapter 5, Section 5:
     Specialization of Magazines”**
     Link: [*Understanding Media and
-    Culture*](http://www.saylor.org/site/textbooks/Understanding%20Media%20and%20Culture.pdf):
+    Culture*](https://resources.saylor.org/archived/textbooks/Understanding%20Media%20and%20Culture.pdf):
     “Chapter 5, Section 5: Specialization of Magazines” (PDF)  
         
      Instructions: Read Chapter 5, Section 5 on pages 222-228. One thing
@@ -436,7 +436,7 @@ id="5.3.4"></span> 
 -   **Reading: *Understanding Media and Culture*: “Chapter 4, Section 5:
     Online Journalism Redefines News”**
     Link: [*Understanding Media and
-    Culture*](http://www.saylor.org/site/textbooks/Understanding%20Media%20and%20Culture.pdf):
+    Culture*](https://resources.saylor.org/archived/textbooks/Understanding%20Media%20and%20Culture.pdf):
     “Chapter 4, Section 5: Online Journalism Redefines News” (PDF)  
         
      Instructions: Read Chapter 4, Section 5 on pages 182-187 and keep
@@ -538,7 +538,7 @@ id="5.3.4"></span> 
 -   **Reading: *Understanding Media and Culture*: “Chapter 5, Section 6:
     Influence of the Internet on the Magazine Industry”**
     Link: [*Understanding Media and
-    Culture*](http://www.saylor.org/site/textbooks/Understanding%20Media%20and%20Culture.pdf):
+    Culture*](https://resources.saylor.org/archived/textbooks/Understanding%20Media%20and%20Culture.pdf):
     “Chapter 5, Section 6: Influence of the Internet on the Magazine
     Industry” (PDF)  
         

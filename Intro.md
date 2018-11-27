@@ -74,7 +74,7 @@ computer;
  √  have competency in the English language; and  
   
  √  have read the [Saylor Student
-Handbook](http://www.saylor.org/site/wp-content/uploads/2012/05/Saylor-StudentHandbook.pdf).
+Handbook](https://resources.saylor.org/archived/wp-content/uploads/2012/05/Saylor-StudentHandbook.pdf).
 
 ### Course Information
 
@@ -91,7 +91,7 @@ following materials:
     
  1.    Our basic text is [“Understanding Media and Culture: An
 Introduction to Mass
-Communication”](http://www.saylor.org/site/textbooks/Understanding%20Media%20and%20Culture.pdf).  
+Communication”](https://resources.saylor.org/archived/textbooks/Understanding%20Media%20and%20Culture.pdf).  
  2.    We will visit and revisit Henry Jenkins’s blog,
 [henryjenkins.org](http://henryjenkins.org), as a source for provocative
 and informative discussions about mass communication.  
