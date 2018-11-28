@@ -54,7 +54,7 @@ id="6.1"></span> 
     Introduction: From Social Networking to Stardom” and “Section 1: The
     Evolution of Popular Music”**
     Link: *[Understanding Media and
-    Culture](https://resources.saylor.org/archived/textbooks/Understanding%20Media%20and%20Culture.pdf)*:
+    Culture](https://resources.saylor.org/wwwresources/archived/site/textbooks/Understanding%20Media%20and%20Culture.pdf)*:
     “Chapter 6, Introduction: From Social Networking to Stardom” and
     “Section 1: The Evolution of Popular Music” (PDF)  
         
@@ -77,7 +77,7 @@ id="6.1"></span> 
     Introduction: Terrestrial Radio Stumbles Into the Digital Age” and
     “Section 1: Evolution of Radio Broadcasting”**
     Link: [*Understanding Media and
-    Culture*](https://resources.saylor.org/archived/textbooks/Understanding%20Media%20and%20Culture.pdf):
+    Culture*](https://resources.saylor.org/wwwresources/archived/site/textbooks/Understanding%20Media%20and%20Culture.pdf):
     “Chapter 7, Introduction: Terrestrial Radio Stumbles Into the
     Digital Age” and “Section 1: Evolution of Radio Broadcasting”
     (PDF)  
@@ -104,7 +104,7 @@ id="6.1"></span> 
 -   **Reading: *Understanding Media and Culture*: “Chapter 6, Section 2:
     The Reciprocal Nature of Music and Culture”**
     Link: [*Understanding Media and
-    Culture*](https://resources.saylor.org/archived/textbooks/Understanding%20Media%20and%20Culture.pdf):
+    Culture*](https://resources.saylor.org/wwwresources/archived/site/textbooks/Understanding%20Media%20and%20Culture.pdf):
     “Chapter 6, Section 2: The Reciprocal Nature of Music and Culture”
     (PDF)  
         
@@ -196,7 +196,7 @@ id="6.3"></span> 
 -   **Reading: *Understanding Media and Culture*: “Chapter 7, Section 2:
     Radio Station Formats”**
     Link: *[Understanding Media and
-    Culture](https://resources.saylor.org/archived/textbooks/Understanding%20Media%20and%20Culture.pdf)*:
+    Culture](https://resources.saylor.org/wwwresources/archived/site/textbooks/Understanding%20Media%20and%20Culture.pdf)*:
     “Chapter 7, Section 2: Radio Station Formats” (PDF)  
         
      Instructions: This short section on pages 305-310 of *Understanding
@@ -218,7 +218,7 @@ id="6.3"></span> 
 -   **Reading: *Understanding Media and Culture*: “Chapter 7, Section 3:
     Radio’s Impact on Culture”**
     Link: [*Understanding Media and
-    Culture*](https://resources.saylor.org/archived/textbooks/Understanding%20Media%20and%20Culture.pdf):
+    Culture*](https://resources.saylor.org/wwwresources/archived/site/textbooks/Understanding%20Media%20and%20Culture.pdf):
     “Chapter 7, Section 3: Radio’s Impact on Culture” (PDF)  
         
      Instructions: This section on radio and culture on pages 310-323
@@ -363,7 +363,7 @@ id="6.3.2.2"></span> 
     Influence of New Technology”; and “Chapter 7, Section 4: Radio’s New
     Future”**
     Link: [*Understanding Media and
-    Culture*](https://resources.saylor.org/archived/textbooks/Understanding%20Media%20and%20Culture.pdf):
+    Culture*](https://resources.saylor.org/wwwresources/archived/site/textbooks/Understanding%20Media%20and%20Culture.pdf):
     “Chapter 6, Section 3: Current Popular Trends in the Music Industry”
     and “Section 4: Influence of New Technology”; and “Chapter 7,
     Section 4: “Radio’s New Future” (PDF)  

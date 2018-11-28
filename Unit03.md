@@ -62,7 +62,7 @@ id="3.1"></span> 
 -   **Reading: *Understanding Media and Culture*: “Chapter 12:
     Introduction” and “Section 1: Advertising”**
     Link: *[Understanding Media and
-    Culture](https://resources.saylor.org/archived/textbooks/Understanding%20Media%20and%20Culture.pdf)*:
+    Culture](https://resources.saylor.org/wwwresources/archived/site/textbooks/Understanding%20Media%20and%20Culture.pdf)*:
     “Chapter 12: Introduction” and “Section 1: Advertising” (PDF)  
         
      Instructions: Chapter 12, Section 1 on pages 545-570 will provide
@@ -455,7 +455,7 @@ id="3.4.1"></span> 
 -   **Reading: *Understanding Media and Culture*: “Chapter 12, Section
     2: Public Relations”**
     Link: *[Understanding Media and
-    Culture](https://resources.saylor.org/archived/textbooks/Understanding%20Media%20and%20Culture.pdf)*:
+    Culture](https://resources.saylor.org/wwwresources/archived/site/textbooks/Understanding%20Media%20and%20Culture.pdf)*:
     “Chapter 12, Section 2: Public Relations” (PDF)  
         
      Instructions: Read Chapter 2, Section 2 on pages 570-583 for a
@@ -638,7 +638,7 @@ id="3.5.2.5"></span> 
     Introduction: Media Conglomerate or Monopoly?” and “Section 13.1:
     Characteristics of Media Industries”**
     Link: [*Understanding Media and
-    Culture*](https://resources.saylor.org/archived/textbooks/Understanding%20Media%20and%20Culture.pdf):
+    Culture*](https://resources.saylor.org/wwwresources/archived/site/textbooks/Understanding%20Media%20and%20Culture.pdf):
     “Chapter 13, Introduction: [Media Conglomerate or
     Monopoly?”](http://catalog.flatworldknowledge.com/bookhub/reader/3833?e=lulemedia_1.0-ch13) and
     “Section 13.1: Characteristics of Media Industries” (PDF)  
@@ -687,7 +687,7 @@ id="3.6.3"></span> 
 -   **Reading: Understanding Media and Culture: “Chapter 13, Section 2:
     The Internet’s Effects on Media Economies”**
     Link: *[Understanding Media and
-    Culture](https://resources.saylor.org/archived/textbooks/Understanding%20Media%20and%20Culture.pdf)*:
+    Culture](https://resources.saylor.org/wwwresources/archived/site/textbooks/Understanding%20Media%20and%20Culture.pdf)*:
     “Chapter 13, Section 2: The Internet’s Effects on Media Economies”
     (PDF)  
         
@@ -732,7 +732,7 @@ id="3.6.3.2"></span> 
 -   **Reading: *Understanding Media and Culture*: “Chapter 13, Section
     3: The Digital Divide in a Global Economy”**
     Link: *[Understanding Media and
-    Culture](https://resources.saylor.org/archived/textbooks/Understanding%20Media%20and%20Culture.pdf)*:
+    Culture](https://resources.saylor.org/wwwresources/archived/site/textbooks/Understanding%20Media%20and%20Culture.pdf)*:
     “Chapter 13, Section 3: The Digital Divide in a Global Economy”
     (PDF)  
         
@@ -776,7 +776,7 @@ id="3.6.3.2"></span> 
 -   **Reading: *Understanding Media and Culture*: “Chapter 13, Section
     4: Information Economy”**
     Link: [*Understanding Media and
-    Culture*](https://resources.saylor.org/archived/textbooks/Understanding%20Media%20and%20Culture.pdf):
+    Culture*](https://resources.saylor.org/wwwresources/archived/site/textbooks/Understanding%20Media%20and%20Culture.pdf):
     “Chapter 13, Section 4: Information Economy” (PDF)  
         
      Instructions: Is the Internet like the Wild West? Some economists
@@ -823,7 +823,7 @@ id="3.6.3.2"></span> 
     5: Globalization and the Media” and “Section 6: “Cultural
     Imperialism”**
     Link: *[Understanding Media and
-    Culture](https://resources.saylor.org/archived/textbooks/Understanding%20Media%20and%20Culture.pdf)*:
+    Culture](https://resources.saylor.org/wwwresources/archived/site/textbooks/Understanding%20Media%20and%20Culture.pdf)*:
     “Chapter 13, Section 5: Globalization and the Media” and “Section 6:
     Cultural Imperialism” (PDF)  
         

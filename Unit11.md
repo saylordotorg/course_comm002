@@ -42,7 +42,7 @@ Upon successful completion of this unit, you will be able to:
     Introduction: TMZ, Tabloids, and Celebrity Gossip: Freedom of the
     Press or Invasion of Privacy?”**
     Link: [*Understanding Media and
-    Culture*](https://resources.saylor.org/archived/textbooks/Understanding%20Media%20and%20Culture.pdf):
+    Culture*](https://resources.saylor.org/wwwresources/archived/site/textbooks/Understanding%20Media%20and%20Culture.pdf):
     “Chapter 14, Introduction: TMZ, Tabloids, and Celebrity Gossip:
     Freedom of the Press or Invasion of Privacy?” (PDF)  
         
@@ -125,7 +125,7 @@ id="11.2"></span> 
 -   **Reading: *Understanding Media and Culture*: “Chapter 14, Section
     1: Ethical Issues in Mass Media”**
     Link: [*Understanding Media and
-    Culture*](https://resources.saylor.org/archived/textbooks/Understanding%20Media%20and%20Culture.pdf):
+    Culture*](https://resources.saylor.org/wwwresources/archived/site/textbooks/Understanding%20Media%20and%20Culture.pdf):
     “Chapter 14, Section 1: Ethical Issues in Mass Media” (PDF)  
         
      Instructions: In Chapter 14, Section 1 on pages 628-639, the author
@@ -379,7 +379,7 @@ id="11.4"></span> 
 -   **Reading: *Understanding Media and Culture*: “Chapter 14, Section
     3: Ethical Considerations of the Online World”**
     Link: *[Understanding Media and
-    Culture](https://resources.saylor.org/archived/textbooks/Understanding%20Media%20and%20Culture.pdf)*:
+    Culture](https://resources.saylor.org/wwwresources/archived/site/textbooks/Understanding%20Media%20and%20Culture.pdf)*:
     “Chapter 14, Section 3: Ethical Considerations of the Online World”
     (PDF)  
         
@@ -506,7 +506,7 @@ id="11.4.2.1"></span> 
     Regulation of Media” and “Section 2: The Law and Mass Media
     Messages”**
     Link: [*Understanding Media and
-    Culture*](https://resources.saylor.org/archived/textbooks/Understanding%20Media%20and%20Culture.pdf):
+    Culture*](https://resources.saylor.org/wwwresources/archived/site/textbooks/Understanding%20Media%20and%20Culture.pdf):
     “Chapter 15, Introduction: Facebook Versus the FTC,” “Section 1:
     Government Regulation of Media” and “Section 2: The Law and Mass
     Media Messages” (PDF)  
@@ -587,7 +587,7 @@ id="11.4.2.1"></span> 
 -   **Reading: *Understanding Media and Culture*: “Chapter 15, Section
     3: Censorship and Freedom of Speech”**
     Link: [*Understanding Media and
-    Culture*](https://resources.saylor.org/archived/textbooks/Understanding%20Media%20and%20Culture.pdf):
+    Culture*](https://resources.saylor.org/wwwresources/archived/site/textbooks/Understanding%20Media%20and%20Culture.pdf):
     “Chapter 15, Section 3: Censorship and Freedom of Speech” (PDF)  
         
      Instructions: Many of the controversies over censorship arise from
@@ -611,7 +611,7 @@ id="11.5.3"></span> 
 -   **Reading: *Understanding Media and Culture*: “Chapter 15, Section
     4: Intellectual Property Issues in the Mass Media”**
     Link: [*Understanding Media and
-    Culture*](https://resources.saylor.org/archived/textbooks/Understanding%20Media%20and%20Culture.pdf):
+    Culture*](https://resources.saylor.org/wwwresources/archived/site/textbooks/Understanding%20Media%20and%20Culture.pdf):
     “Chapter 15, Section 4: Intellectual Property Issues in the Mass
     Media” (PDF)  
         
@@ -634,7 +634,7 @@ id="11.5.4"></span> 
     5: Digital Democracy and Its Possible Effects” and “Section 6: Media
     Influence on Laws and Government”**
     Link: [*Understanding Media and
-    Culture*](https://resources.saylor.org/archived/textbooks/Understanding%20Media%20and%20Culture.pdf):
+    Culture*](https://resources.saylor.org/wwwresources/archived/site/textbooks/Understanding%20Media%20and%20Culture.pdf):
     “Chapter 15, Section 5: Digital Democracy and Its Possible Effects”
     and “Section 6: Media Influence on Laws and Government” (PDF)  
         

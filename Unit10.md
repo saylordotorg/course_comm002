@@ -53,7 +53,7 @@ id="10.1"></span> 
     Internet and Social Media, Introduction: Cleaning Up Your Online
     Act” and “Section 1: The Evolution of the Internet”**
     Link: [*Understanding Media and
-    Culture*](https://resources.saylor.org/archived/textbooks/Understanding%20Media%20and%20Culture.pdf):
+    Culture*](https://resources.saylor.org/wwwresources/archived/site/textbooks/Understanding%20Media%20and%20Culture.pdf):
     “Chapter 11: The Internet and Social Media, Introduction: Cleaning
     Up Your Online Act” and “Section 1: The Evolution of the Internet”
     (PDF)  
@@ -158,7 +158,7 @@ id="10.1.2.2"></span> 
 -   **Reading: *Understanding Media and Culture*: “Chapter 11, Section
     2: Social Media and Web 2.0”**
     Link: *[Understanding Media and
-    Culture](https://resources.saylor.org/archived/textbooks/Understanding%20Media%20and%20Culture.pdf)*:
+    Culture](https://resources.saylor.org/wwwresources/archived/site/textbooks/Understanding%20Media%20and%20Culture.pdf)*:
     “Chapter 11, Section 2: Social Media and Web 2.0” (PDF)  
         
      Instructions: Chapter 11, Section 2 (pages 494-511) breaks down
@@ -387,7 +387,7 @@ id="10.3"></span> 
     3: The Effects of the Internet and Globalization on Popular Culture
     and Interpersonal Communication”**
     Link: [*Understanding Media and
-    Culture*](https://resources.saylor.org/archived/textbooks/Understanding%20Media%20and%20Culture.pdf):
+    Culture*](https://resources.saylor.org/wwwresources/archived/site/textbooks/Understanding%20Media%20and%20Culture.pdf):
     “Chapter 11, Section 3: The Effects of the Internet and
     Globalization on Popular Culture and Interpersonal Communication”
     (PDF)  
@@ -503,7 +503,7 @@ Spring** <span id="10.3.1.4"></span> 
 -   **Reading: *Understanding Media and Culture*: “Chapter 11, Section
     4: Issues and Trends”**
     Link: *[Understanding Media and
-    Culture](https://resources.saylor.org/archived/textbooks/Understanding%20Media%20and%20Culture.pdf)*:
+    Culture](https://resources.saylor.org/wwwresources/archived/site/textbooks/Understanding%20Media%20and%20Culture.pdf)*:
     “Chapter 11, Section 4: Issues and Trends” (PDF)  
         
      Instructions: The Internet and social media have revolutionized the

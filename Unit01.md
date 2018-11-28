@@ -41,7 +41,7 @@ On successful completion of this unit, you will be able to:
     Introduction: ‘The Lost Cell Phone’,” and “Section 1.1: Intersection
     of American Media and Culture”**
     Link: *[Understanding Media and
-    Culture](https://resources.saylor.org/archived/textbooks/Understanding%20Media%20and%20Culture.pdf)*:
+    Culture](https://resources.saylor.org/wwwresources/archived/site/textbooks/Understanding%20Media%20and%20Culture.pdf)*:
     “Chapter 1, Introduction: “The Lost Cell Phone,” and “Section 1.1:
     Intersection of American Media and Culture” (PDF)  
         
@@ -122,7 +122,7 @@ id="1.1.1.2"></span> 
     How Did We Get Here? The Evolution of Media,” and “Section 3: How
     Did We Get Here? The Evolution of Culture”**
     Link: *[Understanding Media and
-    Culture](https://resources.saylor.org/archived/textbooks/Understanding%20Media%20and%20Culture.pdf)*:
+    Culture](https://resources.saylor.org/wwwresources/archived/site/textbooks/Understanding%20Media%20and%20Culture.pdf)*:
     “Chapter 1, Section 2: How Did We Get Here? The Evolution of Media,”
     and “Section 3: How Did We Get Here? The Evolution of Culture”
     (PDF)  
@@ -168,7 +168,7 @@ id="1.2"></span> 
 -   **Reading: Understanding Media and Culture: “Chapter 1, Section 4:
     Media Mix: Convergence”**
     Link: *[Understanding Media and
-    Culture](https://resources.saylor.org/archived/textbooks/Understanding%20Media%20and%20Culture.pdf)*:
+    Culture](https://resources.saylor.org/wwwresources/archived/site/textbooks/Understanding%20Media%20and%20Culture.pdf)*:
     “Chapter 1, Section 4: Media Mix: Convergence” (PDF)  
         
      Instructions: Read Section 4 on pages 27-32, taking notes on Henry
@@ -243,7 +243,7 @@ id="1.3.1"></span> 
 -   **Reading: *Understanding Media and Culture*: “Chapter 1, Section 5:
     Cultural Values Shape Media; Media Shape Cultural Values”**
     Link: *[Understanding Media and
-    Culture](https://resources.saylor.org/archived/textbooks/Understanding%20Media%20and%20Culture.pdf) *(PDF):
+    Culture](https://resources.saylor.org/wwwresources/archived/site/textbooks/Understanding%20Media%20and%20Culture.pdf) *(PDF):
     “Chapter 1, Section 5: Cultural Values Shape Media; Media Shape
     Cultural Values”  
         
@@ -291,7 +291,7 @@ id="1.3.2"></span> 
 -   **Reading: *Understanding Media and Culture*: “Chapter 1, Section 6:
     Mass Media and Popular Culture”**
     Link: *[Understanding Media and
-    Culture](https://resources.saylor.org/archived/textbooks/Understanding%20Media%20and%20Culture.pdf)*:
+    Culture](https://resources.saylor.org/wwwresources/archived/site/textbooks/Understanding%20Media%20and%20Culture.pdf)*:
     “Chapter 1, Section 6: Mass Media and Popular Culture” (PDF)  
         
      Instructions: Read Chapter 1, Section 6 on pages 38-47, where the
@@ -336,7 +336,7 @@ id="1.3.2"></span> 
 -   **Reading: *Understanding Media and Culture*: “Chapter 1, Section 7:
     Media Literacy”**
     Link: *[Understanding Media and
-    Culture](https://resources.saylor.org/archived/textbooks/Understanding%20Media%20and%20Culture.pdf) *(PDF):
+    Culture](https://resources.saylor.org/wwwresources/archived/site/textbooks/Understanding%20Media%20and%20Culture.pdf) *(PDF):
     “Chapter 1, Section 7: Media Literacy”  
         
      Instructions: Read Chapter 1, Section 7 (pages 47-52) to gain a
