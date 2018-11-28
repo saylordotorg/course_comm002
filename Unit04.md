@@ -49,7 +49,7 @@ Upon successful completion of this unit, you will be able to:
 -   **Reading: *Understanding Media and Culture*: “Chapter 3, Section 1:
     History of Books”**
     Link: [*Understanding Media and
-    Culture*](https://resources.saylor.org/archived/textbooks/Understanding%20Media%20and%20Culture.pdf):
+    Culture*](https://resources.saylor.org/wwwresources/archived/site/textbooks/Understanding%20Media%20and%20Culture.pdf):
     “Chapter 3, Section 1: History of Books” (PDF)  
         
      Instructions: Carefully read Chapter 3, Section 1 on pages 94-104
@@ -200,7 +200,7 @@ id="4.2"></span> 
 -   **Reading: *Understanding Media and Culture*: “Chapter 3, Section 2:
     Books and the Development of U.S. Popular Culture”**
     Link: *[Understanding Media and
-    Culture](https://resources.saylor.org/archived/textbooks/Understanding%20Media%20and%20Culture.pdf)*:
+    Culture](https://resources.saylor.org/wwwresources/archived/site/textbooks/Understanding%20Media%20and%20Culture.pdf)*:
     “Chapter 3, Section 2: Books and the Development of U.S. Popular
     Culture” (PDF)  
         
@@ -307,7 +307,7 @@ id="4.3"></span> 
 -   **Reading: *Understanding Media and Culture*: “Chapter 3, Section 3:
     Major Book Formats”**
     Link: [*Understanding Media and
-    Culture*](https://resources.saylor.org/archived/textbooks/Understanding%20Media%20and%20Culture.pdf):
+    Culture*](https://resources.saylor.org/wwwresources/archived/site/textbooks/Understanding%20Media%20and%20Culture.pdf):
     “Chapter 3, Section 3” Major Book Formats” (PDF)  
         
      Instructions: Chapter 3, Section 3 on pages 115-120 summarizes how
@@ -331,7 +331,7 @@ id="4.3"></span> 
 -   **Reading: *Understanding Media and Culture*: “Chapter 3, Section 4:
     Current Publishing Trends”**
     Link: [*Understanding Media and
-    Culture*](https://resources.saylor.org/archived/textbooks/Understanding%20Media%20and%20Culture.pdf):
+    Culture*](https://resources.saylor.org/wwwresources/archived/site/textbooks/Understanding%20Media%20and%20Culture.pdf):
     “Chapter 3, Section 4: Current Publishing Trends” (PDF)  
         
      Instructions: In Chapter 3, Section 4 on pages 120-130, read the
@@ -389,7 +389,7 @@ id="4.3"></span> 
 -   **Reading: *Understanding Media and Culture*: “Chapter 3, Section 5:
     The Influence of New Technology”**
     Link: [*Understanding Media and
-    Culture*](https://resources.saylor.org/archived/textbooks/Understanding%20Media%20and%20Culture.pdf):
+    Culture*](https://resources.saylor.org/wwwresources/archived/site/textbooks/Understanding%20Media%20and%20Culture.pdf):
     “Chapter 3, Section 5: The Influence of New Technology” (PDF)  
         
      Instructions: Read Chapter 3, Section 5 on pages 130-139 and keep

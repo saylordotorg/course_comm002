@@ -49,7 +49,7 @@ On successful completion of this unit, you will be able to:
     Introduction: Harry Potter and the Media Bogeyman” and “Section 1:
     Mass Media and Its Messages”**
     Link: *[Understanding Media and
-    Culture](https://resources.saylor.org/archived/textbooks/Understanding%20Media%20and%20Culture.pdf)*:
+    Culture](https://resources.saylor.org/wwwresources/archived/site/textbooks/Understanding%20Media%20and%20Culture.pdf)*:
     “Chapter 2, Introduction: Harry Potter and the Media Bogeyman” and
     “Section 2.1: Mass Media and Its Messages” (PDF)  
         
@@ -261,7 +261,7 @@ should take approximately 15 minutes.*
 -   **Reading: *Understanding Media and Culture*: “Chapter 2, Section 2:
     Media Effects Theories”**
     Link: *[Understanding Media and
-    Culture](https://resources.saylor.org/archived/textbooks/Understanding%20Media%20and%20Culture.pdf)*:
+    Culture](https://resources.saylor.org/wwwresources/archived/site/textbooks/Understanding%20Media%20and%20Culture.pdf)*:
     “Chapter 2, Section 2: Media Effects Theories” (PDF)  
         
      Instructions: Chapter 2, Section 2 on pages 70-77 provides good
@@ -329,7 +329,7 @@ should take approximately 15 minutes.*
 -   **Reading: *Understanding Media and Culture*: “Chapter 2, Section 3:
     Methods of Researching Media Effects”**
     Link: *[Understanding Media and
-    Culture](https://resources.saylor.org/archived/textbooks/Understanding%20Media%20and%20Culture.pdf)*:
+    Culture](https://resources.saylor.org/wwwresources/archived/site/textbooks/Understanding%20Media%20and%20Culture.pdf)*:
     “Chapter 2, Section 3: Methods of Researching Media Effects” (PDF)  
         
      Instructions: Chapter 2, Section 3 on pages 78-83 provides a
@@ -397,7 +397,7 @@ id="2.2.3.3"></span> 
 -   **Reading: *Understanding Media and Culture*: “Chapter 2, Section 4:
     Media Studies Controversies”**
     Link: *[Understanding Media and
-    Culture](https://resources.saylor.org/archived/textbooks/Understanding%20Media%20and%20Culture.pdf) *(PDF):
+    Culture](https://resources.saylor.org/wwwresources/archived/site/textbooks/Understanding%20Media%20and%20Culture.pdf) *(PDF):
     “Chapter 2, Section 4: “Media Studies Controversies”  
         
      Instructions: Read this last section of Chapter 2 on pages 83-88

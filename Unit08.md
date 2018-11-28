@@ -56,7 +56,7 @@ id="8.1"></span> 
     Introduction: Rethinking Content Delivery” and “Section 1: The
     Evolution of Television”**
     Link: [*Understanding Media and
-    Culture*](https://resources.saylor.org/archived/textbooks/Understanding%20Media%20and%20Culture.pdf):
+    Culture*](https://resources.saylor.org/wwwresources/archived/site/textbooks/Understanding%20Media%20and%20Culture.pdf):
     “Chapter 9, Introduction: Rethinking Content Delivery” and “Section
     1: The Evolution of Television” (PDF)  
         
@@ -160,7 +160,7 @@ in*Understanding Media and Culture*, Chapter 9, Section 1 (pages
 -   **Reading: *Understanding Media and Culture*: “Chapter 9, Section 2:
     The Relationship Between Television and Culture”**
     Link: [*Understanding Media and
-    Culture*](https://resources.saylor.org/archived/textbooks/Understanding%20Media%20and%20Culture.pdf):
+    Culture*](https://resources.saylor.org/wwwresources/archived/site/textbooks/Understanding%20Media%20and%20Culture.pdf):
     “Chapter 9, Section 2: The Relationship Between Television and
     Culture” (PDF)  
         
@@ -532,7 +532,7 @@ id="8.2.8.1"></span> 
 -   **Reading: *Understanding Media and Culture*: “Chapter 9, Section 3:
     Issues and Trends in the Television Industry”**
     Link: [*Understanding Media and
-    Culture*](https://resources.saylor.org/archived/textbooks/Understanding%20Media%20and%20Culture.pdf):
+    Culture*](https://resources.saylor.org/wwwresources/archived/site/textbooks/Understanding%20Media%20and%20Culture.pdf):
     “Chapter 9, Section 3: Issues and Trends in the Television Industry”
     (PDF)  
         
@@ -553,7 +553,7 @@ id="8.2.8.1"></span> 
 -   **Reading: *Understanding Media and Culture*: “Chapter 9, Section 4:
     Influence of New Technologies”**
     Link: [*Understanding Media and
-    Culture*](https://resources.saylor.org/archived/textbooks/Understanding%20Media%20and%20Culture.pdf):
+    Culture*](https://resources.saylor.org/wwwresources/archived/site/textbooks/Understanding%20Media%20and%20Culture.pdf):
     “Chapter 9, Section 4: Influence of New Technologies” (PDF)  
         
      Instructions: In Chapter 9, Section 4 (pages 417-427) the author

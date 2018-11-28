@@ -46,7 +46,7 @@ Upon successful completion of this unit, you will be able to:
     Away?”; “Section 1: The Evolution of Electronic Games”; and “Section
     2: Influential Contemporary Games”**
     Link: [*Understanding Media and
-    Culture*](https://resources.saylor.org/archived/textbooks/Understanding%20Media%20and%20Culture.pdf):
+    Culture*](https://resources.saylor.org/wwwresources/archived/site/textbooks/Understanding%20Media%20and%20Culture.pdf):
     “Chapter 10, Electronic Games and Entertainment, Introduction: Want
     to Get Away?”; “Section 1: The Evolution of Electronic Games”; and
     “Section 2: Influential Contemporary Games” (PDF)  
@@ -258,7 +258,7 @@ id="9.1.2.3"></span> 
     3: The Impact of Video Games on Culture” and “Section 4:
     Controversial Issues”**
     Link: [*Understanding Media and
-    Culture*](https://resources.saylor.org/archived/textbooks/Understanding%20Media%20and%20Culture.pdf):
+    Culture*](https://resources.saylor.org/wwwresources/archived/site/textbooks/Understanding%20Media%20and%20Culture.pdf):
     “Chapter 10, Section 3: The Impact of Video Games on Culture” and
     “Section 4: Controversial Issues” (PDF)  
         
@@ -578,7 +578,7 @@ Camera** <span id="9.2.4.1"></span> 
     5: Blurring the Boundaries Between Video Games, Information,
     Entertainment, and Communication”**
     Link: *[Understanding Media and
-    Culture](https://resources.saylor.org/archived/textbooks/Understanding%20Media%20and%20Culture.pdf)*:
+    Culture](https://resources.saylor.org/wwwresources/archived/site/textbooks/Understanding%20Media%20and%20Culture.pdf)*:
     “Chapter 10, Section 5: Blurring the Boundaries Between Video Games,
     Information, Entertainment, and Communication” (PDF)  
         
